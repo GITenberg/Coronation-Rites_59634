@@ -1,0 +1,27 @@
+_repo: Coronation-Rites_59634
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolley, Reginald Maxwell
+    gutenberg_agent_id: '50542'
+    url: http://www.gutenberg.org/2009/agents/50542
+  editors:
+  - agent_name: Swete, H. B.
+    gutenberg_agent_id: '50543'
+    url: http://www.gutenberg.org/2009/agents/50543
+  - agent_name: Srawley, J. H.
+    gutenberg_agent_id: '50544'
+    url: http://www.gutenberg.org/2009/agents/50544
+description: ''
+gutenberg_issued: '2019-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Coronation Rites
+url: http://www.gutenberg.org/ebooks/59634
